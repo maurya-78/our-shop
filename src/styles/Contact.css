@@ -1,0 +1,13 @@
+.contact-page {
+  padding: 20px 40px;
+}
+
+.contact-page h1 {
+  color: black;
+  margin-bottom: 20px;
+}
+
+.contact-page p {
+  font-size: 18px;
+  margin: 5px 0;
+}

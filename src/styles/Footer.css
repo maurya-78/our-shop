@@ -1,0 +1,8 @@
+.footer {
+  background-color: #ff6600;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  flex-shrink: 0; /* never shrink */
+  position: relative;
+}

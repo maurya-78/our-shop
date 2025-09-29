@@ -1,0 +1,35 @@
+.about-page {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.about-page h1 {
+  color: #ff6600;
+  margin-bottom: 20px;
+}
+
+.about-page p {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 15px;
+  line-height: 1.5;
+}
+footer{
+  background-color: #ff6600;
+  color: white;
+  text-align: center;
+  padding: 15px 0px;
+  
+}
+.content{
+  flex:1;
+  padding: 20px;
+}
+.app{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  ;
+}

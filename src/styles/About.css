@@ -1,0 +1,15 @@
+.about-hero {
+  background: linear-gradient(to right, #003366, #0066cc);
+  color: white;
+  text-align: center;
+  padding: 60px 20px  ;
+}
+
+.about-hero h1 { 
+  font-size: 48px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+}

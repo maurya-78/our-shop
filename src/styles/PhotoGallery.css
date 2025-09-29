@@ -1,0 +1,39 @@
+/* .gallery-page {
+  padding: 20px;
+  text-align: center;
+}
+
+.gallery-page h1 {
+  color: #ff6600;
+  margin-bottom: 20px;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  justify-items: center;
+}
+
+.photo-card {
+  border-radius: 10px;
+  overflow: hidden;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.photo-card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
+
+.photo-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+} */
+
+
+.photo-gallery {
+  text-align: center;
+  padding: 20px;
+}

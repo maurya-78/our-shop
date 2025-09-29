@@ -1,0 +1,14 @@
+.help-hero {
+  background: linear-gradient(to right, #660000, #cc0000);
+  color: white;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.help-hero h1 {
+  font-size: 42px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 15px;
+}
