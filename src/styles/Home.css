@@ -8,7 +8,7 @@
   background: linear-gradient(to right, #003366, #0066cc);
   color: white;
   text-align: center;
-  padding: 80px 20px;
+  padding: 60px 20px;
 }
 .hero h1 {
   font-size: 42px;
@@ -110,8 +110,9 @@
 
 /* CTA */
 .cta {
-  background: #003366;
+   background: linear-gradient(to right, #003366, #0066cc);
   color: white;
   text-align: center;
   padding: 60px 20px;
+  margin-bottom: 20px;
 }
