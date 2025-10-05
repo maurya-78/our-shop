@@ -13,14 +13,14 @@ import sandpaper from "../assets/sandpaper.png";
 
 function Products() {
   const allProducts = [
-    { name: "Asian Paints", category: "Paints", img: asianPaints },
-    { name: "Indigo Paints", category: "Paints", img: indigo },
-    { name: "Birla White Cement", category: "Paints", img: birlaWhite },
-    { name: "Birla Oops", category: "Paints", img: birlaOops },
-    { name: "Fevicol", category: "Hardware", img: fevicol },
-    { name: "Pipes", category: "Hardware", img: pipes },
-    { name: "Nails (Khila)", category: "Hardware", img: nails },
-    { name: "Sandpaper (Balu Paper)", category: "Hardware", img: sandpaper },
+    { name: "Asian Paints", category: "", img: asianPaints },
+    { name: "Indigo Paints", category: "", img: indigo },
+    { name: "Birla White Cement", category: "", img: birlaWhite },
+    { name: "Birla Oop Paints", category:"", img: birlaOops },
+    { name: "Fevicol", category: "", img: fevicol },
+    { name: "Pipes", category: "",img: pipes },
+    { name: "Nails (Khila)", category: "", img: nails },
+    { name: "Sandpaper (Balu Paper)", category: "", img: sandpaper },
   ];
 
   const [filter, setFilter] = useState("All");

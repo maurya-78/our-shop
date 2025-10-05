@@ -64,7 +64,7 @@ function Home() {
         <h2>Featured Products</h2>
         <div className="featured-grid">
           <div className="featured-card">
-            <img src="/assets/asian.png" alt="Asian Paints" />
+           <img src="/assets/asian.png" alt="Asian Paints" />
             <h4>Asian Paints</h4>
           </div>
           <div className="featured-card">
